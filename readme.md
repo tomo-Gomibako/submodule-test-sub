@@ -1,2 +1,2 @@
-# main repository
+# sub repository
 
